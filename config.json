@@ -1,0 +1,6 @@
+{
+    "server" : {
+        "nama" : "assignment_1",
+        "port" : 3000
+    }
+}
